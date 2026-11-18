@@ -2,6 +2,9 @@
 
 Proyek ini merupakan proyek pembuatan website statis yang menyajikan informasi komprehensif mengenai **Permandian Alam Air Panas Lejja**, salah satu destinasi wisata unggulan di Kabupaten Soppeng, Sulawesi Selatan.
 
+🚀 **Live Demo / Website:**
+👉 [**https://aliefnarfan.github.io/WEB_PROFIL_LEJJA/**](https://aliefnarfan.github.io/WEB_PROFIL_LEJJA/)
+
 ---
 
 ## 📋 Fitur & Komponen Utama
@@ -44,11 +47,11 @@ Website ini telah mengimplementasikan **10 komponen wajib** sesuai petunjuk prak
 
 1. **Kloning Repositori:**
    ```bash
-   git clone https://github.com/username-anda/nama-repositori.x
+   git clone https://github.com/aliefnarfan/WEB_PROFIL_LEJJA.git
    ```
 2. **Masuk ke Direktori Proyek:**
    ```bash
-   cd nama-repositori
+   cd WEB_PROFIL_LEJJA
    ```
 3. **Buka File HTML:**
    Buka file `index.html` menggunakan *browser* pilihan Anda (Chrome, Firefox, Edge, dll.).
